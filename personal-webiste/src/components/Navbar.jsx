@@ -7,11 +7,11 @@ function NavMenu(){
         <>
             <Navbar bg="light">
                 <Container>
-                    <Navbar.Brand href="#">test</Navbar.Brand>
+                    <Navbar.Brand href="/">Einkinartig</Navbar.Brand>
                     <Nav className="ms-auto">
-                        <Nav.Link href="#">Home</Nav.Link>
-                        <Nav.Link href="#100ui">100 UI</Nav.Link>
-                        <Nav.Link href="#aboutme">About me</Nav.Link>
+                        <Nav.Link href="/">Home</Nav.Link>
+                        <Nav.Link href="/100ui">100 UI</Nav.Link>
+                        <Nav.Link href="/aboutme">About me</Nav.Link>
                     </Nav>
                 </Container>
             </Navbar>

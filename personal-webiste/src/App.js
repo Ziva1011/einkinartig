@@ -8,6 +8,7 @@ import DesignChallenge from "./pages/100ui";
 import AboutMe from "./pages/AboutMe";
 import NoPage from "./pages/NoPage";
 import './stylesheets/application.sass'
+import React from 'react';
 
 
 function App() {
